@@ -1,0 +1,5 @@
+SQLAlchemy
+fastapi[all]
+python-keycloak
+paho-mqtt
+python-dotenv
